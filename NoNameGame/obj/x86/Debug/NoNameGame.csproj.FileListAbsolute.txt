@@ -1,0 +1,8 @@
+c:\users\армен\documents\visual studio 2010\Projects\NoNameGame\NoNameGame\bin\Debug\NoNameGame.exe
+c:\users\армен\documents\visual studio 2010\Projects\NoNameGame\NoNameGame\bin\Debug\NoNameGame.pdb
+c:\users\армен\documents\visual studio 2010\Projects\NoNameGame\NoNameGame\obj\x86\Debug\NoNameGame.Form1.resources
+c:\users\армен\documents\visual studio 2010\Projects\NoNameGame\NoNameGame\obj\x86\Debug\NoNameGame.Properties.Resources.resources
+c:\users\армен\documents\visual studio 2010\Projects\NoNameGame\NoNameGame\obj\x86\Debug\NoNameGame.csproj.GenerateResource.Cache
+c:\users\армен\documents\visual studio 2010\Projects\NoNameGame\NoNameGame\obj\x86\Debug\NoNameGame.exe
+c:\users\армен\documents\visual studio 2010\Projects\NoNameGame\NoNameGame\obj\x86\Debug\NoNameGame.pdb
+C:\Users\Армен\documents\visual studio 2010\Projects\NoNameGame\NoNameGame\obj\x86\Debug\NoNameGame.csprojResolveAssemblyReference.cache

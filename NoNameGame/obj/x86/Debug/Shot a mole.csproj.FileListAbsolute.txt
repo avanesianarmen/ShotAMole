@@ -1,0 +1,56 @@
+C:\Users\Армен\documents\visual studio 2010\Projects\NoNameGame\NoNameGame\obj\x86\Debug\NoNameGame.exe
+C:\Users\Армен\documents\visual studio 2010\Projects\NoNameGame\NoNameGame\obj\x86\Debug\NoNameGame.pdb
+C:\Users\Армен\documents\visual studio 2010\Projects\NoNameGame\NoNameGame\obj\x86\Debug\NoNameGame.Form1.resources
+C:\Users\Армен\documents\visual studio 2010\Projects\NoNameGame\NoNameGame\obj\x86\Debug\Shot a mole.csproj.GenerateResource.Cache
+C:\Users\Армен\documents\visual studio 2010\Projects\NoNameGame\NoNameGame\bin\Debug\NoNameGame.exe
+C:\Users\Армен\documents\visual studio 2010\Projects\NoNameGame\NoNameGame\bin\Debug\NoNameGame.pdb
+C:\Users\Армен\documents\visual studio 2010\Projects\NoNameGame\NoNameGame\obj\x86\Debug\NoNameGame.Properties.Resources.resources
+C:\Users\Армен\Documents\Visual Studio 2010\Projects\NoNameGame\NoNameGame\obj\x86\Debug\Shot a mole.csprojResolveAssemblyReference.cache
+F:\NoNameGame\NoNameGame\obj\x86\Debug\NoNameGame.exe
+F:\NoNameGame\NoNameGame\obj\x86\Debug\NoNameGame.pdb
+F:\NoNameGame\NoNameGame\bin\Debug\NoNameGame.exe
+F:\NoNameGame\NoNameGame\bin\Debug\NoNameGame.pdb
+F:\NoNameGame\NoNameGame\obj\x86\Debug\Shot a mole.csprojResolveAssemblyReference.cache
+F:\NoNameGame\NoNameGame\obj\x86\Debug\NoNameGame.Form1.resources
+F:\NoNameGame\NoNameGame\obj\x86\Debug\NoNameGame.Properties.Resources.resources
+F:\NoNameGame\NoNameGame\obj\x86\Debug\Shot a mole.csproj.GenerateResource.Cache
+H:\NoNameGame\NoNameGame\obj\x86\Debug\NoNameGame.exe
+H:\NoNameGame\NoNameGame\obj\x86\Debug\NoNameGame.pdb
+H:\NoNameGame\NoNameGame\bin\Debug\NoNameGame.exe
+H:\NoNameGame\NoNameGame\bin\Debug\NoNameGame.pdb
+H:\NoNameGame\NoNameGame\obj\x86\Debug\Shot a mole.csprojResolveAssemblyReference.cache
+H:\NoNameGame\NoNameGame\obj\x86\Debug\NoNameGame.Form1.resources
+H:\NoNameGame\NoNameGame\obj\x86\Debug\NoNameGame.Properties.Resources.resources
+H:\NoNameGame\NoNameGame\obj\x86\Debug\Shot a mole.csproj.GenerateResource.Cache
+C:\Users\Армен\Desktop\NoNameGame\NoNameGame\obj\x86\Debug\NoNameGame.exe
+C:\Users\Армен\Desktop\NoNameGame\NoNameGame\obj\x86\Debug\NoNameGame.pdb
+C:\Users\Армен\Desktop\NoNameGame\NoNameGame\bin\Debug\NoNameGame.exe
+C:\Users\Армен\Desktop\NoNameGame\NoNameGame\bin\Debug\NoNameGame.pdb
+C:\Users\Армен\Desktop\NoNameGame\NoNameGame\obj\x86\Debug\Shot a mole.csprojResolveAssemblyReference.cache
+C:\Users\Армен\Desktop\NoNameGame\NoNameGame\obj\x86\Debug\NoNameGame.Form1.resources
+C:\Users\Армен\Desktop\NoNameGame\NoNameGame\obj\x86\Debug\NoNameGame.Properties.Resources.resources
+C:\Users\Армен\Desktop\NoNameGame\NoNameGame\obj\x86\Debug\Shot a mole.csproj.GenerateResource.Cache
+C:\Users\contest\Documents\Visual Studio 2010\Projects\NoNameGame\NoNameGame\obj\x86\Debug\NoNameGame.exe
+C:\Users\contest\Documents\Visual Studio 2010\Projects\NoNameGame\NoNameGame\obj\x86\Debug\NoNameGame.pdb
+C:\Users\contest\Documents\Visual Studio 2010\Projects\NoNameGame\NoNameGame\bin\Debug\NoNameGame.exe
+C:\Users\contest\Documents\Visual Studio 2010\Projects\NoNameGame\NoNameGame\bin\Debug\NoNameGame.pdb
+C:\Users\contest\Documents\Visual Studio 2010\Projects\NoNameGame\NoNameGame\obj\x86\Debug\Shot a mole.csprojResolveAssemblyReference.cache
+C:\Users\contest\Documents\Visual Studio 2010\Projects\NoNameGame\NoNameGame\obj\x86\Debug\NoNameGame.Form1.resources
+C:\Users\contest\Documents\Visual Studio 2010\Projects\NoNameGame\NoNameGame\obj\x86\Debug\NoNameGame.Properties.Resources.resources
+C:\Users\contest\Documents\Visual Studio 2010\Projects\NoNameGame\NoNameGame\obj\x86\Debug\Shot a mole.csproj.GenerateResource.Cache
+E:\NoNameGame\NoNameGame\obj\x86\Debug\NoNameGame.exe
+E:\NoNameGame\NoNameGame\obj\x86\Debug\NoNameGame.pdb
+E:\NoNameGame\NoNameGame\bin\Debug\NoNameGame.exe
+E:\NoNameGame\NoNameGame\bin\Debug\NoNameGame.pdb
+E:\NoNameGame\NoNameGame\obj\x86\Debug\Shot a mole.csprojResolveAssemblyReference.cache
+E:\NoNameGame\NoNameGame\obj\x86\Debug\NoNameGame.Form1.resources
+E:\NoNameGame\NoNameGame\obj\x86\Debug\NoNameGame.Properties.Resources.resources
+E:\NoNameGame\NoNameGame\obj\x86\Debug\Shot a mole.csproj.GenerateResource.Cache
+D:\NoNameGame\NoNameGame\obj\x86\Debug\NoNameGame.exe
+D:\NoNameGame\NoNameGame\obj\x86\Debug\NoNameGame.pdb
+D:\NoNameGame\NoNameGame\bin\Debug\NoNameGame.exe
+D:\NoNameGame\NoNameGame\bin\Debug\NoNameGame.pdb
+D:\NoNameGame\NoNameGame\obj\x86\Debug\Shot a mole.csprojResolveAssemblyReference.cache
+D:\NoNameGame\NoNameGame\obj\x86\Debug\NoNameGame.Form1.resources
+D:\NoNameGame\NoNameGame\obj\x86\Debug\NoNameGame.Properties.Resources.resources
+D:\NoNameGame\NoNameGame\obj\x86\Debug\Shot a mole.csproj.GenerateResource.Cache
